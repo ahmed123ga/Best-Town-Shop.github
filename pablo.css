@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  button {
+    background-color: green;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .box {
+    margin: 20px auto;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid red;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .Dod {
+    font-size: 20px;
+    margin: 20px auto;
+    width: 200px;
+    padding: 20px;
+  }
